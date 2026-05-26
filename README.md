@@ -1,6 +1,6 @@
 # Aircraft Engine Predictive Maintenance Dashboard
 
-![Dashboard Preview](Summary_dhashboard_nasa.jpg)
+![Dashboard Preview](Summary_dashboard_nasa.jpg)
 
 Power BI dashboard for aircraft engine predictive maintenance using NASA C-MAPSS sensor data.
 
