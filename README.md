@@ -42,4 +42,4 @@ This project focuses on aircraft engine degradation analysis using NASA C-MAPSS 
 
 ## Files
 
-- Dashboard_Nasa_Zaïd.pdf → Full dashboard export
+📄 [Download Full Dashboard PDF](Dashboard_Nasa_Zaïd.pdf)
